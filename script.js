@@ -14,7 +14,7 @@ const h = canvas.height;
 
 const ctx = canvas.getContext('2d');
 const backgroundImage = new Image();
-backgroundImage.src = "1231.jpg";
+backgroundImage.src = "th.png";
 
 const flakes = [];
 class snowfall {
